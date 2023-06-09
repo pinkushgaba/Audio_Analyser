@@ -1,0 +1,6 @@
+1. Tech requirements : Python, Rest API, Hvplot, plotly, jupyter notebook
+
+2. Concepts : Speech Recognition using ML, python programming, virtual env using terminal
+
+3. Business impact : Can help create a tool that can be used by various businesses to enhance customer experience (UX)
+this tool can be used to create a transcription service for meetings, video lectures etc - (Freelance gig?)
